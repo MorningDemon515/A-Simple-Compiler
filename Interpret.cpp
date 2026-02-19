@@ -1,4 +1,4 @@
-#include "Interpret.h"
+﻿#include "Interpret.h"
 
 void PrintAST(const std::unique_ptr<ASTNode>& node, int depth = 0) {
 	std::string indent(depth * 2, ' ');

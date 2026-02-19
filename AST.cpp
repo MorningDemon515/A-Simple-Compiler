@@ -1,5 +1,6 @@
-#include "AST.h"
+﻿#include "AST.h"
 #include <stdexcept>
+#include <string>
 
 Parser::Parser(Lexer l)
 {
