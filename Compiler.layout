@@ -1,0 +1,62 @@
+[
+    {
+        "caretX": 4,
+        "caretY": 85,
+        "filename": "D:/_/Compiler/Main.cpp",
+        "focused": true,
+        "isOpen": true,
+        "left": 0,
+        "order": 0,
+        "top": 1380
+    },
+    {
+        "caretX": 3,
+        "caretY": 34,
+        "filename": "D:/_/Compiler/Lexer.cpp",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 2,
+        "top": 360
+    },
+    {
+        "caretX": 3,
+        "caretY": 25,
+        "filename": "D:/_/Compiler/AST.cpp",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 5,
+        "top": 180
+    },
+    {
+        "caretX": 10,
+        "caretY": 9,
+        "filename": "D:/_/Compiler/Token.h",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 3,
+        "top": 0
+    },
+    {
+        "caretX": 10,
+        "caretY": 10,
+        "filename": "D:/_/Compiler/Lexer.h",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 1,
+        "top": 0
+    },
+    {
+        "caretX": 1,
+        "caretY": 13,
+        "filename": "D:/_/Compiler/AST.h",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 4,
+        "top": 780
+    }
+]

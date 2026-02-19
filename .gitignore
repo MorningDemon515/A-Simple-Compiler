@@ -1,0 +1,7 @@
+Compiler_private.h
+Compiler_private.rc
+Compiler_private.res
+Compiler.bookmarks
+Compiler.debug
+makefile.win
+*.o
